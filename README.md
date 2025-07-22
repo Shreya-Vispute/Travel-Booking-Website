@@ -1,6 +1,6 @@
 # 🌍 Travel Booking Website
 
-A responsive and visually engaging travel booking website built with **HTML**, **CSS**, **Bootstrap**, and **Font Awesome**. This website provides users with a platform to explore popular destinations, view deals, read reviews, and get inspired for their next trip.
+A responsive and visually engaging **Travel Booking Website** built with **HTML**, **CSS**, **Bootstrap**, and **Font Awesome**. This website provides users with a platform to explore popular destinations, view deals, read reviews, and get inspired for their next trip.
 
 ---
 
