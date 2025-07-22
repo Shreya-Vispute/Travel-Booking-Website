@@ -23,7 +23,7 @@ A responsive and visually engaging **Travel Booking Website** built with **HTML*
 - **Font Awesome**: Icons and visual enhancements
 - *(Optional for future)* **JavaScript**: For added interactivity
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 - Add a backend with login & booking functionality.
 - Connect with Google Maps API.
 - Enable real-time search with JavaScript.
